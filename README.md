@@ -13,3 +13,14 @@ We welcome contributions to improve OptoelectronicsLM. Please fork the repositor
 
 ## Citation
 Please use the following the citation if you use any of this codebase in your work.
+```BibTex
+@article{doi:10.1021/acs.jcim.4c02029,
+  author = {Huang, Dingyun and Cole, Jacqueline M.},
+  title = {Cost-Efficient Domain-Adaptive Pretraining of Language Models for Optoelectronics Applications},
+  journal = {Journal of Chemical Information and Modeling},
+  doi = {10.1021/acs.jcim.4c02029},
+      note ={PMID: 39933074},
+  URL = {https://doi.org/10.1021/acs.jcim.4c02029},
+  eprint = {https://doi.org/10.1021/acs.jcim.4c02029}
+}
+```
