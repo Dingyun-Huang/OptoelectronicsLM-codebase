@@ -4,7 +4,7 @@ This repository contains code and resources for training optoelectronics-aware l
 ## Introduction
 OptoelectronicsLM is a project aimed at developing language models that are specifically aware of optoelectronics concepts. These models are trained on specialized datasets and evaluated on their performance in classification, question-answering, and embedding tasks.
 
-Training and evaluation scripts used in this work for each relevant task are given in the corresponding directory. Note that you will need to change relevanbt file paths and repository locations to suit your own use.
+Training and evaluation scripts used in this work for each relevant task are given in the corresponding directory. Note that you will need to change relevant file paths and repository locations to suit your own use.
 
 See the [associated paper](https://doi.org/10.1021/acs.jcim.4c02029), models and datasets on [Hugging Face](https://huggingface.co/collections/CambridgeMolecularEngineering) for more details.
 
