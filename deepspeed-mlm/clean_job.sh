@@ -72,7 +72,7 @@ deepspeed \
     --adam_beta2 0.98 \
     --adam_epsilon 1e-6 \
     --weight_decay 0.01 \
-    --max_steps 100 \
+    --max_steps 8000 \
     --warmup_steps 1800 \
     --save_strategy steps \
     --save_steps 3000 \
